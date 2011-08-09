@@ -11,6 +11,7 @@ then triggers a relay
 to take a picture
 
 Wiring notes:
+
 * Analog Sensors:
  * 0 0 degree (relative to camera) light sensor
  * 1 90
